@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Functions
+comment0.text=\n\ La\ clase\ Functions\ proporciona\ m\u00E9todos\ para\ interactuar\ con\ el\ usuario,\n\ permitiendo\ la\ entrada\ de\ texto\ y\ n\u00FAmenros.\ Incluye\ m\u00E9todos\ para\ obtener\n\ texto,\ n\u00FAmero\ entero\ y\ numero\ entero\ dentro\ de\ un\ rango\ espec\u00EDfico.\n\ Esta\ clase\ es\ \u00FAtil\ para\ manejar\ la\ entrada\ del\ usuario\ de\ manera\ controlada\ y\n\ segura,\ asegurando\ que\ los\ datos\ ingresados\ sean\ v\u00E1lidos\ y\ dentro\ de\ los\n\ l\u00EDmites\ esperados.\n\ \n\ @author\ (Ruben\ David\ Santana\ Rodriguez)\ \n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=Functions()
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\n\ Obtiene\ un\ texto\ ingresado\ por\ el\ usuario.\n\ \n\ @return\ El\ texto\ ingresado\ por\ el\ usuario.\n
+comment3.params=
+comment3.target=int\ getNumber()
+comment3.text=\n\ Obtiene\ un\ n\u00FAmero\ enteros\ ingresado\ por\ el\ usuario.\n\ \n\ @return\ El\ n\u00FAmero\ entero\ ingresado\ por\ el\ usuario.\n
+comment4.params=min\ max
+comment4.target=int\ getRange(int,\ int)
+comment4.text=\n\ Obtiene\ un\ n\u00FAmero\ entero\ dentro\ de\ un\ rango\ espec\u00EDfico\ ingresado\ por\ el\n\ usuario.\n\ \n\ @param\ min\ El\ valor\ m\u00EDnimo\ del\ rango.\n\ @param\ max\ El\ valor\ m\u00E1ximo\ del\ rango.\n\ @return\ El\ numero\ entero\ ingresado\ por\ el\ usuario\ dentro\ del\ rango\ especificado.\n
+numComments=5
